@@ -143,7 +143,7 @@ const Project = () => (
             title={<span className="text-black">Te<b>c</b>h<b>D</b>ias</span>}
             description={<span className="text-black">WebSite de apresentação da TechDias</span>}
             isComingSoon
-            link="https://techdias-landing.vercel.app/"
+            link="https://otechdias.vercel.app/"
           />
         </BentoTilt>
       </div>
